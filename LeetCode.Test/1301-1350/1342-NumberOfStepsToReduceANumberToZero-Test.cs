@@ -1,7 +1,7 @@
-﻿using LeetCode._0001_0050;
+﻿using LeetCode._1301_1350;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace LeetCode.Test._0001_0050
+namespace LeetCode.Test._1301_1350
 {
     [TestClass]
     public class _1342_NumberOfStepsToReduceANumberToZero_Test

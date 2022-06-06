@@ -6,4 +6,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="0351-0400\" />
+    <Folder Include="0401-450\" />
+    <Folder Include="0451-500\" />
+    <Folder Include="0301-0350\" />
+    <Folder Include="0201-0250\" />
+    <Folder Include="0101-0150\" />
+  </ItemGroup>
+
 </Project>

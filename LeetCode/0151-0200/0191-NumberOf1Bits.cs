@@ -1,4 +1,4 @@
-﻿namespace LeetCode._0001_0050
+﻿namespace LeetCode._0151_0200
 {
     public class _0191_NumberOf1Bits
     {

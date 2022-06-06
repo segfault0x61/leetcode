@@ -1,4 +1,4 @@
-﻿namespace LeetCode._0001_0050
+﻿namespace LeetCode._1301_1350
 {
     public class _1342_NumberOfStepsToReduceANumberToZero
     {
